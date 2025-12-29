@@ -16,6 +16,9 @@ and DevOps beginners to understand basic server monitoring.
 - Store system health reports in a log file
 - Practice real-world Linux administration tasks
 
+## 📊 Project Architecture Diagram
+This diagram explains the flow of the Linux Server Health Monitoring Script.
+![alt text](<DigramImage Dec 29, 2025, 02_07_34 PM.png>) ![alt text](linux-monitoring-tools-11.png) ![alt text](prometheus-architecture-diagram-monitoring.webp)
 ---
 
 ## 🛠 Tools & Technologies Used
@@ -50,7 +53,11 @@ Integrate with monitoring tools
 Convert script into a system service
 
 👤 Author
+
 Osama Faisal
+
 Linux | AWS | Cloud & DevOps Enthusiast
+
 📧 Email: osamafaisal321@gmail.com
+
 🔗 GitHub: https://github.com/iam-osamafaisal
